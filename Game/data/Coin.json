@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "Coin.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 139,
+				"h": 32
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Coin1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 27,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 27,
+						"h": 30
+					}
+				},
+				{
+					"filename": "Coin2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 26,
+						"h": 30
+					},
+					"frame": {
+						"x": 30,
+						"y": 1,
+						"w": 26,
+						"h": 30
+					}
+				},
+				{
+					"filename": "Coin6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 26,
+						"h": 30
+					},
+					"frame": {
+						"x": 58,
+						"y": 1,
+						"w": 26,
+						"h": 30
+					}
+				},
+				{
+					"filename": "Coin3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 86,
+						"y": 1,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "Coin5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 107,
+						"y": 1,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "Coin4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 10,
+						"h": 30
+					},
+					"frame": {
+						"x": 128,
+						"y": 1,
+						"w": 10,
+						"h": 30
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7421f4fac4d0924fee7f8ef5d4ccbcdb:6faac91b616b3aae18607e51d887de3f:498b35e71de7b9b1647de5e83c57165b$"
+	}
+}
